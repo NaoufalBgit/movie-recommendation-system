@@ -20,12 +20,6 @@
 - [Technologies](#technologies)
 - [Dataset](#dataset)
 - [Algorithmes](#algorithmes)
-- [Résultats](#résultats)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Structure du projet](#structure-du-projet)
-- [Roadmap](#roadmap)
-- [Auteur](#auteur)
 
 ---
 
